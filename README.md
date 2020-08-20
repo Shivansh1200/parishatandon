@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey folks! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**parishatandon/parishatandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/parisha-tandon/">
+  <img align="left" alt="Parisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/parishatandon">
+  <img align="left" alt="Parisha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.hackerrank.com/tandonparisha29">
+  <img align="left" alt="Parisha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.instagram.com/parisha_tandon/">
+  <img align="left" alt="Parisha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+</a>
+<br />
 
-Here are some ideas to get you started:
+### I am Parisha Tandon
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [ParishaTandon](https://github.com/parishatandon)
