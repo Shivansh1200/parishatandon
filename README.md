@@ -14,7 +14,6 @@
 </a>
 <br />
 💻  I'm
-
 ![image](https://github.com/parishatandon/parishatandon/blob/master/Namebanner.jpg)
 ### I'm a student of Computer Science engineering at SRMIST. 
 
