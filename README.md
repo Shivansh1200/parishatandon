@@ -18,4 +18,4 @@
 ![image](https://github.com/parishatandon/parishatandon/blob/master/Namebanner.jpg)
 ### I'm a student of Computer Science engineering at SRMIST. 
 
-![image](https://github.com/parishatandon/parishatandon/blob/master/chess.gif)
+![image](https://github.com/parishatandon/parishatandon/blob/master/sudoku.gif)
