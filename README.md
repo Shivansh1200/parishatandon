@@ -29,3 +29,4 @@ I'm a software engineer who is passionate about making open-source more accessib
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [ParishaTandon](https://github.com/parishatandon)
+![image](https://github.com/parishatandon/parishatandon/blob/master/chess.gif.mp4)
