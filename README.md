@@ -1,4 +1,4 @@
-## Hey folks! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hey folks! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/parisha-tandon/">
   <img align="left" alt="Parisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,9 +13,9 @@
   <img align="left" alt="Parisha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <br />
-# I'm  👋🏾 👩🏾‍💻
+### I'm  👋🏾 👩🏾‍💻
 
 ![image](https://github.com/parishatandon/parishatandon/blob/master/Namebanner.jpg)
-I'm a student of Computer Science engineering at SRMIST. 
+### I'm a student of Computer Science engineering at SRMIST. 
 ⭐️ From [ParishaTandon](https://github.com/parishatandon)
-![image](https://github.com/parishatandon/parishatandon/blob/master/chesss.gif)
+![image](https://github.com/parishatandon/parishatandon/blob/master/chess.gif)
