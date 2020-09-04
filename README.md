@@ -13,7 +13,7 @@
   <img align="left" alt="Parisha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <br />
-### I'm  👋🏾 👩🏾‍💻
+###  👋🏾 👩🏾‍💻  I'm
 
 ![image](https://github.com/parishatandon/parishatandon/blob/master/Namebanner.jpg)
 ### I'm a student of Computer Science engineering at SRMIST. 
